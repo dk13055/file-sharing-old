@@ -12,23 +12,23 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "1903731117:AAGZSj08GJRnUFMtofQzVsFveQcowBsBM2w"
+      "value": ""
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "817926999"
+      "value": "1250450587"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": "7612147"
+      "value": ""
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": "561a2aba4f414a4b3527a2db14215d91"
+      "value": ""
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1001598193238"
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
@@ -36,11 +36,11 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nHow are you doing ?"
+      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "817926999",
+      "value": "",
       "required": false
     }
   }
